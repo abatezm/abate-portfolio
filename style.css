@@ -63,6 +63,10 @@ nav {
   height: 300px;
   width: 200px;
 }
+#abate {
+    width: 800px;
+
+}
 
 #aboutme {
   display: flex;
